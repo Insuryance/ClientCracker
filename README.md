@@ -1,6 +1,6 @@
 # 🎯 Client Hunter
 
-**Find any company's clients — from their website AND hidden sources across the internet.**
+**Find any company's clients from their website AND hidden sources across the internet.**
 
 Give it a company's website (e.g., `www.stripe.com`), and Client Hunter will:
 
@@ -8,7 +8,7 @@ Give it a company's website (e.g., `www.stripe.com`), and Client Hunter will:
 2. **Search the internet** (news articles, Reddit, blogs) for unlisted clients
 3. **Combine everything** into a clean, downloadable Excel spreadsheet
 
-Perfect for **competitive analysis** — find out who's using your competitor's product so you can target those same companies.
+Perfect for **competitive analysis** - find out who's using your competitor's product so you can target those same companies.
 
 ---
 
